@@ -1,0 +1,14 @@
+---
+title: Humans of The Past
+author: La Duc Chinh
+layout: post
+---
+# Humans of The Past
+
+Today one of my friends in a online forum that I was a member asks me to chit chat with him because he wants to chill. He complaints about him being an useless person. I tell him the he was and he still is one of my inspiration on the way to become a researcher. So here's the story.
+
+There is an online forum called TTC - Tạo Trò Chơi or Gaming Making in English. I had been a member of that website since 2009, an active member. I was really famous in that forum because I was out there trying to help anyone in my capability (and yes I had my own game project at that time). And at TTC I had met many young passionate people such as ngoaho, Winkey, DangKhoa, FrozenLance, LongKiem, tanhtaplo,sangameboy,HuyKaiba... We were really young at that time, we were just in around 14-18 years old. I still remember LongKiem and sangameboy are younger than me and the rest is just 1 or 2 years older. And all we wanted to do is just to make a game to play.
+
+Then life happens. I dropped out halfway. In 2011, I decided to give up my game project (I lost all my source code thanks to Mediafire) to continue my IPhO dream. And in the end, I failed to get a way to IPhO in 2013. After that, I don't know why but I never comeback to game making. I end up watching all my friends in this forum continuing their ways to the future. If I recall correctly, ngoaho now is a software engineering in Gameloft. Winkey is a graphic designer for a game company. LongKiem is now an expert in Block chain. sangameboy keeps selling his games through Steam and Google Play Store. I don't have much information about tanhtaplo, I hear some rumors that he's still trying to finish his game project. HuyKaiba now has a family with childrens but sometimes he still makes fun games for everyone. FrozenLance is the one I menntioned above. He also makes games for living like sangameboy. He tells me that he has "zero achievement" but I do believe one day this guy will give a big shoot since he promised me. DangKhoa is the admin of that forum, he has a life now but still doing the game making thing for fun.
+
+As life goes on, I'm impressed by my friends on that forum. They don't give up like I did. They really try to become something in this world. They were and are still my inspiring sources to push me on the way to become a PhD. Inspiration comes from people around you, not from famous persons.
