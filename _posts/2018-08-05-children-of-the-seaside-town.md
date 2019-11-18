@@ -4,7 +4,6 @@ author: La Duc Chinh
 layout: post
 icon: fa-lightbulb-o
 ---
-# Children of The Seaside Town and The Orange Ball
 
 Today, one of my friends comes to Hanoi, our capital city, to see us. We were in a basketball team. Our initial plan for today was to play basketball all the morning but the weather today is not really good for playing with the orange ball outdoor (we don't have any indoor playground). So we decide to just have lunch and chit chat instead.
 

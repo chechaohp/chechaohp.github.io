@@ -4,7 +4,6 @@ author: Chinh La
 layout: post
 ---
 
-# My very first project in life
 
 I love video game. My first time touching a keyboard was about 15 years ago. And with the help of the kids in my neighborhood, I got a chance to play many video games. Soon after that, video games became my cup of tea. As my generation grew up, we went through many form of video games. I don't know much about the others but in my community, I have gone through the acarde era (game with coins) and then console era (PS1) and offline PC game era (_the Sim 1_, _Samurai Showdown 1/2/3/4_,...) and online game era (_MU_, _Gunbound_, _Audition_, _Boom online_,...). After all these eras, offline game is something that is really special for me. As I'm always fond of the story behind, I'm always seeking for a game which have a great story instead of great gameplay like many others.
 

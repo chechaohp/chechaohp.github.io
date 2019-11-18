@@ -3,7 +3,6 @@ title: Humans of The Past
 author: La Duc Chinh
 layout: post
 ---
-# Humans of The Past
 
 Today one of my friends in a online forum that I was a member asks me to chit chat with him because he wants to chill. He complaints about him being an useless person. I tell him the he was and he still is one of my inspiration on the way to become a researcher. So here's the story.
 

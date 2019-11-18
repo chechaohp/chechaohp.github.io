@@ -1,31 +1,56 @@
-title: Chinh Duc La
-url: ""
+title: Chinh La's Blog
+description: My Personal Blog
+author: La Duc Chinh
+github: https://github.com/chechaohp
+about: I'm a Data Scientist at AhaMove
+# disqus_shortname: stackproblems
+# google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "#"
+    - icon: fa-linkedin
+      link: "#"
+    # - icon: fa-stack-exchange
+    #   link: "#"
+    - icon: fa-github
+      link: "https://github.com/chechaohp"
+
+# share:
+  # twitter_username: github.io
+  # fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://chechaohp.github.io"
 baseurl: ""
-
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
 markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
 
-# tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/chechaohp"
-footer_text: “Dream as if you will live forever. And live as if you will die today.” - James Dean
-
-plugins: [jekyll-paginate] 
-paginate: 5
-paginate_path: posts/page:num/
-
-sass:
-    style: compressed
-    sass_dir: _sass
-
-nav:
- - name: "About"
-   link: "/"
- - name: "Resume"
-   link: "/resume.pdf"
- - name: "Contact"
-   link: "/contact"
- - name: "Blogs"
-   link: "/blog"
-
-theme: jekyll-theme-cayman
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['production']
