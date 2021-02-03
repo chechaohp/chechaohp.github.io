@@ -7,7 +7,7 @@ I try to learn math for Machine Learning based on [this guide](https://www.reddi
 
 - [x] How to Prove It - Velleman
 - [x] Understanding Analysis - Stephen Abbott
-- [] Linear Algebra Done Right - Sheldon Axler
+- [ ] Linear Algebra Done Right - Sheldon Axler
 
 
 **Last update**: 2-Feb-2021
