@@ -6,8 +6,8 @@ slug: "math-project"
 I try to learn math for Machine Learning based on [this guide](https://www.reddit.com/r/learnmachinelearning/comments/ggpzk2/a_comprehensive_selfstudy_guide_for_the_math/) from Reddit.
 
 - [x] How to Prove It - Velleman
-- [] Understanding Analysis -  Stephen Abbott (working on, will write a solution myself in latex)
+- [x] Understanding Analysis - Stephen Abbott
+- [] Linear Algebra Done Right - Sheldon Axler
 
-This semester is quite heavy for me, I might not finish this book soon.
 
-**Last update**: 18-Aug-2020
+**Last update**: 2-Feb-2021
